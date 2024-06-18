@@ -1,5 +1,5 @@
 # Industry 4.0 Integration of IoT in Agriculture
-![alt text](http://Screenshot.png)
+![alt text](https://github.com/Ajay-Deshpande/Soil-Sensor-Data-Analysis/blob/master/Screenshot.png)
 The graphs use consistent coloring across
 - Soil Type Classification
     - Blue for Clay
